@@ -23,8 +23,8 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/geotechnical-chatbot.git
-cd geotechnical-chatbot
+git clone https://github.com/PrakashDSdeveloper/Geo_chat_bot.git
+
 ```
 
 2. Install the dependencies:
