@@ -1,0 +1,8 @@
+#Ignoring Model File in github
+/model
+
+#Ignoring Data file
+/data
+
+#Ignoring env filr which consists pinecone API credentials
+/.env

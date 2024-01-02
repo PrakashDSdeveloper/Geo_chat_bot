@@ -1,0 +1,9 @@
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+pinecone-client
+langchain==0.0.225
+flask
+pypdf
+pinecone-client
+python-dotenv
+-e . #---> this will look for the particular setup.py file
